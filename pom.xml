@@ -8,9 +8,9 @@
     <version>3.3.8</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.horadrim.heart</groupId>
+  <groupId>com.horadrim.khalims.heart</groupId>
   <artifactId>Khalims-Heart</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>Khalims-Heart</name>
   <description>A Service based on Spring Boot3</description>
   <url/>

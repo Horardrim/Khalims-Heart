@@ -1,4 +1,4 @@
-package com.horadrim.heart;
+package com.horadrim.khalims.heart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
