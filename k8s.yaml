@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: khalims-heart
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: khalims-heart
+  template:
+    metadata:
+      labels:
+        app: khalims-heart
+    spec:
+      containers:
+      - name: khalims-heart
+        image: khalims-heart:1.0.0
+        imagePullPolicy: Never
